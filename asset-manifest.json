@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://amitthakur11.github.io/csb-prdjy/static/css/main.921b0872.chunk.css",
+    "main.js": "https://amitthakur11.github.io/csb-prdjy/static/js/main.3cbb312a.chunk.js",
+    "main.js.map": "https://amitthakur11.github.io/csb-prdjy/static/js/main.3cbb312a.chunk.js.map",
+    "runtime-main.js": "https://amitthakur11.github.io/csb-prdjy/static/js/runtime-main.ca3dfcdc.js",
+    "runtime-main.js.map": "https://amitthakur11.github.io/csb-prdjy/static/js/runtime-main.ca3dfcdc.js.map",
+    "static/js/2.89a244b6.chunk.js": "https://amitthakur11.github.io/csb-prdjy/static/js/2.89a244b6.chunk.js",
+    "static/js/2.89a244b6.chunk.js.map": "https://amitthakur11.github.io/csb-prdjy/static/js/2.89a244b6.chunk.js.map",
+    "index.html": "https://amitthakur11.github.io/csb-prdjy/index.html",
+    "static/css/main.921b0872.chunk.css.map": "https://amitthakur11.github.io/csb-prdjy/static/css/main.921b0872.chunk.css.map",
+    "static/js/2.89a244b6.chunk.js.LICENSE.txt": "https://amitthakur11.github.io/csb-prdjy/static/js/2.89a244b6.chunk.js.LICENSE.txt",
+    "static/media/logo.f98789df.png": "https://amitthakur11.github.io/csb-prdjy/static/media/logo.f98789df.png",
+    "static/media/name.1e71fd0d.jpg": "https://amitthakur11.github.io/csb-prdjy/static/media/name.1e71fd0d.jpg",
+    "static/media/profile.379165ba.jpg": "https://amitthakur11.github.io/csb-prdjy/static/media/profile.379165ba.jpg",
+    "static/media/videoproject.62c013ff.png": "https://amitthakur11.github.io/csb-prdjy/static/media/videoproject.62c013ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca3dfcdc.js",
+    "static/js/2.89a244b6.chunk.js",
+    "static/css/main.921b0872.chunk.css",
+    "static/js/main.3cbb312a.chunk.js"
+  ]
+}
